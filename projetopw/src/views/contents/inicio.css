@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #a8dadc;
+}
+
+a:visited {
+    color: #a8dadc;
+}
+
+a:hover {
+    color: dodgerblue;
+}
+.conteudo {
+    align-items: center;
+    margin: 0 auto;
+    padding: 50px;
+    width: 75%;    
+}
+
+h4 {
+    margin-top: 50px;
+}
+
+.footer{
+    align-self: center;
+    padding: 1px;
+    width: 82.5%;
+    background-color: #EEEEEE;
+}
