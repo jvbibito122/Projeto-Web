@@ -13,3 +13,13 @@ a:visited {
 a:hover {
     color: dodgerblue;
 }
+
+.footer{
+    align-self: center;
+    padding: 1px;
+    width: 77.1%;
+    background-color: #EEEEEE;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+

@@ -14,11 +14,6 @@ a:hover {
     color: dodgerblue;
 }
 
-img {
-    width: 500px;
-    height: 500px;
-    background-color: grey;
-}
 .caption {
     /* Make the caption a block so it occupies its own line. */
     display: block;
@@ -26,4 +21,6 @@ img {
 h2 {
     align-self: center;
 }
-
+.conteudo{
+    padding: 15px;
+}

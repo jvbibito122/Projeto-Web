@@ -16,17 +16,14 @@ a:hover {
 .conteudo {
     align-items: center;
     margin: 0 auto;
-    padding: 50px;
+    padding: 65px;
     width: 75%;    
-}
-
-h4 {
-    margin-top: 50px;
 }
 
 .footer{
     align-self: center;
     padding: 1px;
-    width: 82.5%;
+    width: 77.1%;
     background-color: #EEEEEE;
+    font-family: 'Roboto', sans-serif;
 }
