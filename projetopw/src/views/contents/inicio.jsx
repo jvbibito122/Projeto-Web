@@ -13,6 +13,7 @@ const Inicio = props => (
             <div className="img">
                 <img src="https://resizer.otstatic.com/v2/photos/wide-huge/1/25952425.jpg" width="679.33px" height="382px"/>
             </div>
+            <br/>
             <h4>Lobby Level, Address Downtown - Sheikh Mohammed bin Rashid Blvd - Dubai - Emirados Árabes Unidos</h4>
         </div>
         <div className="footer">
